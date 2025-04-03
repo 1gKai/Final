@@ -1,0 +1,199 @@
+2025-04-01 15:36:00,723 - INFO - \u2705 [CHROME] Login success: testuser
+2025-04-01 15:36:24,218 - WARNING - \u274c [CHROME] Login failed: wronguser
+2025-04-01 15:36:56,486 - WARNING - \u274c [CHROME] Login failed: testuser
+2025-04-01 15:38:33,823 - INFO - \u2705 [FIREFOX] Login success: testuser
+2025-04-01 15:39:03,276 - WARNING - \u274c [FIREFOX] Login failed: wronguser
+2025-04-01 15:39:24,828 - WARNING - \u274c [FIREFOX] Login failed: testuser
+2025-04-01 15:41:20,697 - WARNING - \u274c [FIREFOX] Login failed: ' OR '1'='1
+2025-04-01 15:41:35,840 - INFO - \u2705 [MICROSOFTEDGE] Login success: testuser
+2025-04-01 15:42:08,136 - WARNING - \u274c [MICROSOFTEDGE] Login failed: wronguser
+2025-04-01 15:42:32,442 - WARNING - \u274c [MICROSOFTEDGE] Login failed: testuser
+2025-04-01 15:43:47,283 - WARNING - \u274c [MICROSOFTEDGE] Login failed: ' OR '1'='1
+2025-04-01 16:00:52,538 - INFO - \u2705 [CHROME] Login success: testuser
+2025-04-01 16:01:22,559 - WARNING - \u274c [CHROME] Login failed: testuser
+2025-04-01 16:02:44,139 - WARNING - \u274c [CHROME] Login failed: ' OR '1'='1
+2025-04-01 16:03:22,169 - INFO - \u2705 [FIREFOX] Login success: testuser
+2025-04-01 16:03:56,713 - WARNING - \u274c [FIREFOX] Login failed: wronguser
+2025-04-01 16:04:21,674 - WARNING - \u274c [FIREFOX] Login failed: testuser
+2025-04-01 16:08:21,222 - WARNING - \u274c [FIREFOX] Login failed: ' OR '1'='1
+2025-04-01 16:08:34,853 - INFO - \u2705 [MICROSOFTEDGE] Login success: testuser
+2025-04-01 16:08:46,534 - WARNING - \u274c [MICROSOFTEDGE] Login failed: wronguser
+2025-04-01 16:08:58,226 - WARNING - \u274c [MICROSOFTEDGE] Login failed: testuser
+2025-04-01 16:10:06,925 - WARNING - \u274c [MICROSOFTEDGE] Login failed: ' OR '1'='1
+2025-04-01 16:23:44,202 - WARNING - \u274c [CHROME] Login failed: testuser
+2025-04-01 16:23:52,815 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-162352.png
+2025-04-01 16:23:53,442 - INFO - \u2705 [CHROME] Login success: testuser
+2025-04-01 16:24:09,464 - WARNING - \u274c [CHROME] Login failed: wronguser
+2025-04-01 16:24:10,133 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with . Screenshot saved: screenshots\timeout__20250401-162409.png
+2025-04-01 16:24:10,327 - WARNING - \u274c [CHROME] Login failed: ' OR '1'='1
+2025-04-01 16:24:33,401 - WARNING - \u274c [FIREFOX] Login failed: wronguser
+2025-04-01 16:25:05,998 - ERROR - \u26a0\ufe0f [FIREFOX] Timeout error with . Screenshot saved: screenshots\timeout__20250401-162505.png
+2025-04-01 16:25:18,561 - WARNING - \u274c [MICROSOFTEDGE] Login failed: wronguser
+2025-04-01 16:25:19,709 - INFO - \u2705 [MICROSOFTEDGE] Login success: testuser
+2025-04-01 16:25:28,979 - WARNING - \u274c [MICROSOFTEDGE] Login failed: testuser
+2025-04-01 16:25:41,375 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with . Screenshot saved: screenshots\timeout__20250401-162541.png
+2025-04-01 16:25:51,536 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-162551.png
+2025-04-01 16:25:54,380 - WARNING - \u274c [MICROSOFTEDGE] Login failed: ' OR '1'='1
+2025-04-01 16:34:13,516 - WARNING - \u274c [CHROME] Login failed: testuser
+2025-04-01 16:34:14,191 - INFO - \u2705 [CHROME] Login success: testuser
+2025-04-01 16:34:22,914 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-163422.png
+2025-04-01 16:34:27,957 - WARNING - \u274c [CHROME] Login failed: wronguser
+2025-04-01 16:34:41,445 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with . Screenshot saved: screenshots\timeout__20250401-163441.png
+2025-04-01 16:34:41,835 - WARNING - \u274c [CHROME] Login failed: ' OR '1'='1
+2025-04-01 16:35:03,539 - WARNING - \u274c [FIREFOX] Login failed: wronguser
+2025-04-01 16:35:11,096 - WARNING - \u274c [FIREFOX] Login failed: testuser
+2025-04-01 16:35:34,310 - WARNING - \u274c [FIREFOX] Login failed: ' OR '1'='1
+2025-04-01 16:35:46,729 - WARNING - \u274c [MICROSOFTEDGE] Login failed: wronguser
+2025-04-01 16:35:58,323 - WARNING - \u274c [MICROSOFTEDGE] Login failed: testuser
+2025-04-01 16:36:02,071 - INFO - \u2705 [FIREFOX] Login success: testuser
+2025-04-01 16:36:26,968 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with . Screenshot saved: screenshots\timeout__20250401-163626.png
+2025-04-01 16:36:29,335 - ERROR - \u26a0\ufe0f [FIREFOX] Timeout error with . Screenshot saved: screenshots\timeout__20250401-163629.png
+2025-04-01 16:36:35,522 - ERROR - \u26a0\ufe0f [FIREFOX] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-163635.png
+2025-04-01 16:36:44,205 - INFO - \u2705 [MICROSOFTEDGE] Login success: testuser
+2025-04-01 16:36:47,773 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-163647.png
+2025-04-01 16:36:49,444 - WARNING - \u274c [MICROSOFTEDGE] Login failed: ' OR '1'='1
+2025-04-01 16:54:07,643 - WARNING - \u274c [CHROME] Login failed: testuser
+2025-04-01 16:54:17,275 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-165417.png
+2025-04-01 16:54:37,242 - INFO - \u2705 [CHROME] Login success: testuser
+2025-04-01 16:54:37,460 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with . Screenshot saved: screenshots\timeout__20250401-165437.png
+2025-04-01 16:54:38,598 - WARNING - \u274c [CHROME] Login failed: ' OR '1'='1
+2025-04-01 16:54:50,438 - WARNING - \u274c [CHROME] Login failed: wronguser
+2025-04-01 16:54:57,993 - ERROR - \u26a0\ufe0f [CHROME] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-165457.png
+2025-04-01 16:55:04,340 - INFO - \u2705 [FIREFOX] Login success: testuser
+2025-04-01 16:55:28,870 - WARNING - \u274c [FIREFOX] Login failed: testuser
+2025-04-01 16:55:51,616 - WARNING - \u274c [FIREFOX] Login failed: ' OR '1'='1
+2025-04-01 16:56:06,272 - WARNING - \u274c [FIREFOX] Login failed: wronguser
+2025-04-01 16:56:17,369 - WARNING - \u274c [CHROME] Login failed:  testuser 
+2025-04-01 16:56:23,299 - ERROR - \u26a0\ufe0f [FIREFOX] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-165623.png
+2025-04-01 16:56:38,597 - ERROR - \u26a0\ufe0f [FIREFOX] Timeout error with . Screenshot saved: screenshots\timeout__20250401-165638.png
+2025-04-01 16:56:50,630 - INFO - \u2705 [MICROSOFTEDGE] Login success: testuser
+2025-04-01 16:56:50,795 - WARNING - \u274c [FIREFOX] Login failed:  testuser 
+2025-04-01 16:56:51,685 - ERROR - \u26a0\ufe0f [FIREFOX] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-165651.png
+2025-04-01 16:57:04,831 - WARNING - \u274c [MICROSOFTEDGE] Login failed: wronguser
+2025-04-01 16:57:05,295 - WARNING - \u274c [MICROSOFTEDGE] Login failed: testuser
+2025-04-01 16:57:11,468 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with . Screenshot saved: screenshots\timeout__20250401-165711.png
+2025-04-01 16:57:17,436 - WARNING - \u274c [MICROSOFTEDGE] Login failed: ' OR '1'='1
+2025-04-01 16:57:26,142 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-165725.png
+2025-04-01 16:57:31,207 - ERROR - \u26a0\ufe0f [MICROSOFTEDGE] Timeout error with testuser. Screenshot saved: screenshots\timeout_testuser_20250401-165731.png
+2025-04-01 16:57:38,791 - WARNING - \u274c [MICROSOFTEDGE] Login failed:  testuser 
+2025-04-01 17:18:12,792 - ERROR - \u26a0\ufe0f Error during logout test: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_button"]"}
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61EEDFE65+26629]
+	(No symbol) [0x00007FF61EE46030]
+	(No symbol) [0x00007FF61ECD931A]
+	(No symbol) [0x00007FF61ED2F8E7]
+	(No symbol) [0x00007FF61ED2FB1C]
+	(No symbol) [0x00007FF61ED834A7]
+	(No symbol) [0x00007FF61ED57AEF]
+	(No symbol) [0x00007FF61ED80169]
+	(No symbol) [0x00007FF61ED57883]
+	(No symbol) [0x00007FF61ED20550]
+	(No symbol) [0x00007FF61ED21803]
+	GetHandleVerifier [0x00007FF61F2372DD+3529853]
+	GetHandleVerifier [0x00007FF61F24DA42+3621858]
+	GetHandleVerifier [0x00007FF61F2424F3+3575443]
+	GetHandleVerifier [0x00007FF61EFAB79A+860474]
+	(No symbol) [0x00007FF61EE508AF]
+	(No symbol) [0x00007FF61EE4CBE4]
+	(No symbol) [0x00007FF61EE4CD86]
+	(No symbol) [0x00007FF61EE3C2E9]
+	BaseThreadInitThunk [0x00007FF8085CE8D7+23]
+	RtlUserThreadStart [0x00007FF80915BF6C+44]
+
+2025-04-01 17:18:22,022 - ERROR - \u26a0\ufe0f Error during logout test: Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//demoqa.com/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20demoqa.com.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.jsm:519:5
+checkReadyState@chrome://remote/content/marionette/navigate.js:66:24
+onNavigation@chrome://remote/content/marionette/navigate.js:334:39
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.jsm:44:25
+
+2025-04-01 17:18:35,187 - ERROR - \u26a0\ufe0f Error during logout test: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_button"]"}
+  (Session info: MicrosoftEdge=134.0.3124.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66431A785+20677]
+	simdutf::get_active_implementation [0x00007FF664276F30+492592]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF66456DC3A+1807418]
+	(No symbol) [0x00007FF6640B72AC]
+	(No symbol) [0x00007FF6640B758B]
+	(No symbol) [0x00007FF6640F85A7]
+	(No symbol) [0x00007FF6640D849F]
+	(No symbol) [0x00007FF6640AD6ED]
+	(No symbol) [0x00007FF6640F5D61]
+	(No symbol) [0x00007FF6640D81C3]
+	(No symbol) [0x00007FF6640ACC36]
+	(No symbol) [0x00007FF6640AC0C4]
+	(No symbol) [0x00007FF6640ACA63]
+	(No symbol) [0x00007FF6641958DD]
+	(No symbol) [0x00007FF6641A1D42]
+	(No symbol) [0x00007FF66419A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6643F478A+262026]
+	simdutf::get_active_implementation [0x00007FF664284661+547681]
+	simdutf::get_active_implementation [0x00007FF66427D914+519700]
+	simdutf::get_active_implementation [0x00007FF66427DA59+520025]
+	simdutf::get_active_implementation [0x00007FF66426F606+461574]
+	BaseThreadInitThunk [0x00007FF8085CE8D7+23]
+	RtlUserThreadStart [0x00007FF80915BF6C+44]
+
+2025-04-01 17:22:02,303 - ERROR - \u26a0\ufe0f Error during logout test: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_button"]"}
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61EEDFE65+26629]
+	(No symbol) [0x00007FF61EE46030]
+	(No symbol) [0x00007FF61ECD931A]
+	(No symbol) [0x00007FF61ED2F8E7]
+	(No symbol) [0x00007FF61ED2FB1C]
+	(No symbol) [0x00007FF61ED834A7]
+	(No symbol) [0x00007FF61ED57AEF]
+	(No symbol) [0x00007FF61ED80169]
+	(No symbol) [0x00007FF61ED57883]
+	(No symbol) [0x00007FF61ED20550]
+	(No symbol) [0x00007FF61ED21803]
+	GetHandleVerifier [0x00007FF61F2372DD+3529853]
+	GetHandleVerifier [0x00007FF61F24DA42+3621858]
+	GetHandleVerifier [0x00007FF61F2424F3+3575443]
+	GetHandleVerifier [0x00007FF61EFAB79A+860474]
+	(No symbol) [0x00007FF61EE508AF]
+	(No symbol) [0x00007FF61EE4CBE4]
+	(No symbol) [0x00007FF61EE4CD86]
+	(No symbol) [0x00007FF61EE3C2E9]
+	BaseThreadInitThunk [0x00007FF8085CE8D7+23]
+	RtlUserThreadStart [0x00007FF80915BF6C+44]
+
+2025-04-01 17:22:52,075 - ERROR - \u26a0\ufe0f Error during logout test: Message: Unable to locate element: [id="register_button"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+
+2025-04-01 17:23:08,643 - ERROR - \u26a0\ufe0f Error during logout test: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_button"]"}
+  (Session info: MicrosoftEdge=134.0.3124.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66431A785+20677]
+	simdutf::get_active_implementation [0x00007FF664276F30+492592]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF66456DC3A+1807418]
+	(No symbol) [0x00007FF6640B72AC]
+	(No symbol) [0x00007FF6640B758B]
+	(No symbol) [0x00007FF6640F85A7]
+	(No symbol) [0x00007FF6640D849F]
+	(No symbol) [0x00007FF6640AD6ED]
+	(No symbol) [0x00007FF6640F5D61]
+	(No symbol) [0x00007FF6640D81C3]
+	(No symbol) [0x00007FF6640ACC36]
+	(No symbol) [0x00007FF6640AC0C4]
+	(No symbol) [0x00007FF6640ACA63]
+	(No symbol) [0x00007FF6641958DD]
+	(No symbol) [0x00007FF6641A1D42]
+	(No symbol) [0x00007FF66419A703]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6643F478A+262026]
+	simdutf::get_active_implementation [0x00007FF664284661+547681]
+	simdutf::get_active_implementation [0x00007FF66427D914+519700]
+	simdutf::get_active_implementation [0x00007FF66427DA59+520025]
+	simdutf::get_active_implementation [0x00007FF66426F606+461574]
+	BaseThreadInitThunk [0x00007FF8085CE8D7+23]
+	RtlUserThreadStart [0x00007FF80915BF6C+44]
+
